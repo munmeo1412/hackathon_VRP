@@ -1,5 +1,5 @@
 # hackathon_VRP
-My very first Hackathon competition in my current companny for Technical team.
+My very first Hackathon competition within Technical team in my companny. 
 
 My team project is to solve VRP (Vehical Routing Problem)
 
