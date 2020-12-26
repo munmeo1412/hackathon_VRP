@@ -8,5 +8,5 @@ This part of code is just my part for Auto Assign algorithm using KMeans Cluster
 I mainly used Python for this algorithm
 Although not got high prize, but the algorithm and result made me sastisfied with my first Hackathon experience.
 
-![vrp result](vrp_result.png)
+![vrp visualize](vrp_visualize.png)
 
